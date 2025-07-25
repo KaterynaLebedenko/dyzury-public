@@ -2,7 +2,7 @@
 
 📅 Dzisiaj dyżury do 18:
 
-DE @Martin Große, @David, @Melanie
+DE @David, @Celina, @Susanne
 
 NL @Genevieve, @Oginda
 
@@ -11,11 +11,11 @@ NL @Genevieve, @Oginda
 
 📅 Dzisiaj dyżury do 18:
 
-DE Martin Große, David, Melanie
+DE David, Celina, Susanne
 
-FR Aurelien, Crysshvi
+FR Aurelien, Alem
 
-IT Gabriele 
+IT Laura 
 
 test3
 
@@ -24,9 +24,9 @@ test3
 
 📅 Dzisiaj dyżury do 18:
 
-DE @Martin Große, @David, @Melanie
+DE @David, @Celina, @Susanne
 
-CZ @Rachel, @Martin
+CZ @Pavel, @Rachel
 
 DK @Hans
 
