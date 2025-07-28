@@ -2,20 +2,20 @@
 
 📅 Dzisiaj dyżury do 18:
 
-DE @David, @Celina, @Susanne
+DE @Kathleen, @David
 
-NL @Genevieve, @Oginda
+NL @Abigail
 
 ===
 📞
 
 📅 Dzisiaj dyżury do 18:
 
-DE David, Celina, Susanne
+DE Kathleen, David
 
 FR Aurelien, Alem
 
-IT Laura 
+IT Rocco 
 
 test3
 
@@ -24,9 +24,9 @@ test3
 
 📅 Dzisiaj dyżury do 18:
 
-DE @David, @Celina, @Susanne
+DE @Kathleen, @David
 
-CZ @Pavel, @Rachel
+CZ @Rachel, @Martin
 
-DK @Hans
+DK @Hans, @Maria
 
