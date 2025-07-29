@@ -2,7 +2,7 @@
 
 📅 Dzisiaj dyżury do 18:
 
-DE @Kathleen, @David
+DE @David, @Susanne
 
 NL @Abigail
 
@@ -11,11 +11,11 @@ NL @Abigail
 
 📅 Dzisiaj dyżury do 18:
 
-DE Kathleen, David
+DE David, Susanne
 
-FR Aurelien, Alem
+FR Nice, Alem
 
-IT Rocco 
+IT Gabriele, Rocco 
 
 
 ===
@@ -23,9 +23,9 @@ IT Rocco
 
 📅 Dzisiaj dyżury do 18:
 
-DE @Kathleen, @David
+DE @David, @Susanne
 
-CZ @Rachel, @Martin
+CZ @Pavel, @Rachel
 
 DK @Hans, @Maria
 
