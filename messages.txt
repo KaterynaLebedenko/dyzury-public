@@ -2,7 +2,7 @@
 
 📅 Dzisiaj dyżury do 18:
 
-DE @David, @Christian
+DE @David, @Celina
 
 NL @Abigail
 
@@ -11,11 +11,11 @@ NL @Abigail
 
 📅 Dzisiaj dyżury do 18:
 
-DE David, Christian
+DE David, Celina
 
-FR Aurelien, Alem
+FR Nice, Alem
 
-IT Laura 
+IT Gabriele 
 
 
 ===
@@ -23,9 +23,9 @@ IT Laura
 
 📅 Dzisiaj dyżury do 18:
 
-DE @David, @Christian
+DE @David, @Celina
 
-CZ @Rachel, @Martin
+CZ @Pavel, @Rachel
 
-DK @Hans, @Damilola
+DK @Hans
 
